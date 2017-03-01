@@ -11,6 +11,8 @@ and supported actively by [**The pyLoad Team**](https://github.com/orgs/pyload/p
 Plugin policy
 -------------
 
+[![Join the chat at https://gitter.im/pyload/plugins](https://badges.gitter.im/pyload/plugins.svg)](https://gitter.im/pyload/plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > **Note:**
 > The current policy can be modified anytime.
 
